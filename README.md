@@ -1,0 +1,3 @@
+# PrimaryDetailFlow
+
+### Android Studio Template
